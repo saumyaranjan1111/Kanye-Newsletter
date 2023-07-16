@@ -1,6 +1,8 @@
 # Kanye-Newsletter
 If you are a fan of Kanye, you are a fan of yourself.
 
-The server in built on Node and Express and deployed on cyclic.
+The frontend includes a simple landing page built using html, css and Javascript and some prebuilt Bootstrap components.
+
+The backend includes a server built on NodeJS and ExpressJS and deployed on cyclic.
 
 [Sign Up Here!](https://talented-hoodie-bear.cyclic.app/)
